@@ -1,0 +1,67 @@
+lib/CMakeFiles/mbedtls.dir/E_/freertos-awan/pico-sdk/lib/mbedtls/library/error.c.obj: \
+ E:\freertos-awan\pico-sdk\lib\mbedtls\library\error.c \
+ E:\freertos-awan\pico-sdk\lib\mbedtls\library\common.h \
+ E:/freertos-awan/freertos_raspberry_pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/limits.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/syslimits.h \
+ C:/msys64/ucrt64/include/limits.h C:/msys64/ucrt64/include/crtdefs.h \
+ C:/msys64/ucrt64/include/corecrt.h C:/msys64/ucrt64/include/_mingw.h \
+ C:/msys64/ucrt64/include/_mingw_mac.h \
+ C:/msys64/ucrt64/include/_mingw_secapi.h \
+ C:/msys64/ucrt64/include/vadefs.h \
+ C:/msys64/ucrt64/include/sdks/_mingw_ddk.h \
+ C:/msys64/ucrt64/include/assert.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
+ C:/msys64/ucrt64/include/stddef.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
+ C:/msys64/ucrt64/include/stdint.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/error.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/platform.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+ C:/msys64/ucrt64/include/time.h C:/msys64/ucrt64/include/sys/timeb.h \
+ C:/msys64/ucrt64/include/sec_api/sys/timeb_s.h \
+ C:/msys64/ucrt64/include/_timeval.h \
+ C:/msys64/ucrt64/include/pthread_time.h C:/msys64/ucrt64/include/stdio.h \
+ C:/msys64/ucrt64/include/corecrt_stdio_config.h \
+ C:/msys64/ucrt64/include/_mingw_off_t.h \
+ C:/msys64/ucrt64/include/swprintf.inl \
+ C:/msys64/ucrt64/include/sec_api/stdio_s.h \
+ C:/msys64/ucrt64/include/stdlib.h \
+ C:/msys64/ucrt64/include/corecrt_wstdlib.h \
+ C:/msys64/ucrt64/include/sec_api/stdlib_s.h \
+ C:/msys64/ucrt64/include/malloc.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/mm_malloc.h \
+ C:/msys64/ucrt64/include/errno.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
+ C:/msys64/ucrt64/include/stdarg.h \
+ C:/msys64/ucrt64/include/_mingw_stdarg.h \
+ C:/msys64/ucrt64/include/string.h \
+ C:/msys64/ucrt64/include/sec_api/string_s.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/arc4.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/asn1.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/base64.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/blowfish.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/camellia.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/cipher.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/hkdf.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/hmac_drbg.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/md5.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/oid.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/padlock.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/pem.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/pkcs12.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/pkcs5.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/poly1305.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/sha1.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
+ E:/freertos-awan/pico-sdk/lib/mbedtls/include/mbedtls/xtea.h

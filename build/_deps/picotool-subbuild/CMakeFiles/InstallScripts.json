@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/freertos-awan/freertos_raspberry_pico/build/_deps/picotool-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

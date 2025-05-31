@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/freertos-awan/freertos_raspberry_pico/build/src/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "E:/freertos-awan/freertos_raspberry_pico/build/src/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "E:/freertos-awan/freertos_raspberry_pico/build/src/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "E:/freertos-awan/freertos_raspberry_pico/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "E:/freertos-awan/freertos_raspberry_pico/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "E:/freertos-awan/freertos_raspberry_pico/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "E:/freertos-awan/freertos_raspberry_pico/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "E:/freertos-awan/freertos_raspberry_pico/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "E:/freertos-awan/freertos_raspberry_pico/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "E:/freertos-awan/freertos_raspberry_pico/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "E:/freertos-awan/freertos_raspberry_pico/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}

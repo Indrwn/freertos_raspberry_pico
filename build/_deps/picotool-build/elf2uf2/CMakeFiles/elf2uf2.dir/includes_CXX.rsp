@@ -1,0 +1,1 @@
+-I"E:/freertos-awan/freertos_raspberry_pico/build/_deps/picotool-src/elf2uf2" -I"E:/freertos-awan/freertos_raspberry_pico/build/_deps/picotool-src/elf" -I"E:/freertos-awan/freertos_raspberry_pico/build/_deps/picotool-src/errors" -isystem "E:/freertos-awan/pico-sdk/src/common/boot_uf2_headers/include"

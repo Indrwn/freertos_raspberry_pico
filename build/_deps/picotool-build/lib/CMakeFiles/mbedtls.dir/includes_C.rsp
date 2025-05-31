@@ -1,0 +1,1 @@
+-I"E:/freertos-awan/freertos_raspberry_pico/build/_deps/picotool-src/lib/include" -isystem "E:/freertos-awan/pico-sdk/lib/mbedtls/include"

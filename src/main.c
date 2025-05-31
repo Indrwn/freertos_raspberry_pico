@@ -22,7 +22,13 @@ int main()
     stdio_init_all();
 
     xTaskCreate(led_task, "LED_Task", 256, NULL, 1, NULL);
+    printf("FreeRTOS on Raspberry Pi Pico\n");
+    printf("Starting scheduler...\n");
+    // Start the FreeRTOS scheduler
     vTaskStartScheduler();
 
-    while(1){};
+    while(1){
+        printf("FreeRTOS on Raspberry Pi Pico\n");
+        printf("Starting scheduler...\n");
+    };
 }

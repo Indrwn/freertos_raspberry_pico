@@ -1,0 +1,5 @@
+E:/freertos-awan/freertos_raspberry_pico/build/_deps/picotool/picotool.exe
+E:/freertos-awan/freertos_raspberry_pico/build/_deps/picotool/picotoolTargets.cmake
+E:/freertos-awan/freertos_raspberry_pico/build/_deps/picotool/picotoolTargets-release.cmake
+E:/freertos-awan/freertos_raspberry_pico/build/_deps/picotool/picotoolConfig.cmake
+E:/freertos-awan/freertos_raspberry_pico/build/_deps/picotool/picotoolConfigVersion.cmake

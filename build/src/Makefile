@@ -1801,30 +1801,6 @@ E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s:
 	cd /d E:\freertos-awan\freertos_raspberry_pico\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\freertos_raspberry_pico.dir\build.make src/CMakeFiles/freertos_raspberry_pico.dir/E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 .PHONY : E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 
-E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj: E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-.PHONY : E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj
-
-# target to build an object file
-E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj:
-	cd /d E:\freertos-awan\freertos_raspberry_pico\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\freertos_raspberry_pico.dir\build.make src/CMakeFiles/freertos_raspberry_pico.dir/E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-.PHONY : E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-
-E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i: E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
-.PHONY : E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i
-
-# target to preprocess a source file
-E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i:
-	cd /d E:\freertos-awan\freertos_raspberry_pico\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\freertos_raspberry_pico.dir\build.make src/CMakeFiles/freertos_raspberry_pico.dir/E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
-.PHONY : E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
-
-E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s: E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
-.PHONY : E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s
-
-# target to generate assembly for a file
-E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s:
-	cd /d E:\freertos-awan\freertos_raspberry_pico\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\freertos_raspberry_pico.dir\build.make src/CMakeFiles/freertos_raspberry_pico.dir/E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
-.PHONY : E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
-
 E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj: E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
 .PHONY : E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj
 
@@ -2403,9 +2379,6 @@ help:
 	@echo ... E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio/stdio.obj
 	@echo ... E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio/stdio.i
 	@echo ... E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio/stdio.s
-	@echo ... E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj
-	@echo ... E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i
-	@echo ... E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s
 	@echo ... E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj
 	@echo ... E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.i
 	@echo ... E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.s

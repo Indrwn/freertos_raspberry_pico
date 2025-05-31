@@ -64,5 +64,8 @@ src/CMakeFiles/freertos_raspberry_pico.dir/E_/freertos-awan/pico-sdk/src/rp2_com
  E:\freertos-awan\pico-sdk\src\rp2_common\hardware_resets\include/hardware/resets.h \
  E:\freertos-awan\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/resets.h \
  E:\freertos-awan\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/resets.h \
- E:\freertos-awan\pico-sdk\src\rp2_common\pico_stdio_uart\include/pico/stdio_uart.h \
- E:\freertos-awan\pico-sdk\src\rp2_common\pico_stdio_usb\include/pico/stdio_usb.h
+ E:\freertos-awan\pico-sdk\src\rp2_common\pico_stdio_usb\include/pico/stdio_usb.h \
+ E:\freertos-awan\pico-sdk\src\common\pico_binary_info\include/pico/binary_info.h \
+ E:\freertos-awan\pico-sdk\src\common\pico_binary_info\include/pico/binary_info/defs.h \
+ E:\freertos-awan\pico-sdk\src\common\pico_binary_info\include/pico/binary_info/structure.h \
+ E:\freertos-awan\pico-sdk\src\common\pico_binary_info\include/pico/binary_info/code.h

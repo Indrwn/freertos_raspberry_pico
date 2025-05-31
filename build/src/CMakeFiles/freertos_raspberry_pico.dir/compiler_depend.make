@@ -3444,96 +3444,22 @@ src/CMakeFiles/freertos_raspberry_pico.dir/E_/freertos-awan/pico-sdk/src/rp2_com
   E:/freertos-awan/pico-sdk/src/common/pico_time/include/pico/time.h \
   E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
   E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/addressmap.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h \
   E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/intctrl.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/resets.h \
   E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h \
   E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/timer.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/resets.h \
   E:/freertos-awan/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/timer.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h \
   E:/freertos-awan/pico-sdk/src/rp2040/pico_platform/include/pico/platform.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/pico_printf/include/pico/printf.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio/driver.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
-
-src/CMakeFiles/freertos_raspberry_pico.dir/E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/arm-none-eabi/include/_ansi.h \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/arm-none-eabi/include/_newlib_version.h \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/arm-none-eabi/include/assert.h \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/arm-none-eabi/include/machine/_default_types.h \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/arm-none-eabi/include/machine/ieeefp.h \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/arm-none-eabi/include/newlib.h \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/arm-none-eabi/include/stdint.h \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/arm-none-eabi/include/sys/_intsup.h \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/arm-none-eabi/include/sys/_stdint.h \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/arm-none-eabi/include/sys/cdefs.h \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/arm-none-eabi/include/sys/config.h \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/arm-none-eabi/include/sys/features.h \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/lib/gcc/arm-none-eabi/14.2.1/include/stdarg.h \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/lib/gcc/arm-none-eabi/14.2.1/include/stdbool.h \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
-  C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/lib/gcc/arm-none-eabi/14.2.1/include/stdint.h \
-  E:/freertos-awan/freertos_raspberry_pico/lib/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/include/freertos_sdk_config.h \
-  E:/freertos-awan/freertos_raspberry_pico/lib/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/include/rp2040_config.h \
-  E:/freertos-awan/pico-sdk/src/boards/include/boards/pico.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
-  generated/pico_base/pico/config_autogen.h \
-  generated/pico_base/pico/version.h \
-  E:/freertos-awan/freertos_raspberry_pico/src/FreeRTOSConfig.h \
-  E:/freertos-awan/pico-sdk/src/common/pico_base_headers/include/pico.h \
-  E:/freertos-awan/pico-sdk/src/common/pico_base_headers/include/pico/assert.h \
-  E:/freertos-awan/pico-sdk/src/common/pico_base_headers/include/pico/config.h \
-  E:/freertos-awan/pico-sdk/src/common/pico_base_headers/include/pico/error.h \
-  E:/freertos-awan/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
-  E:/freertos-awan/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h \
-  E:/freertos-awan/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h \
-  E:/freertos-awan/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h \
-  E:/freertos-awan/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/addressmap.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/intctrl.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/io_bank0.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/m0plus.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pads_bank0.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/resets.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/interp.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/io_bank0.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/m0plus.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/nvic.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/pads_bank0.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/resets.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/scb.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/sio.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/pico_platform/include/pico/platform.h \
-  E:/freertos-awan/pico-sdk/src/rp2040/pico_platform/include/pico/platform/cpu_regs.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio/driver.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
 
 src/CMakeFiles/freertos_raspberry_pico.dir/E_/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c \
   C:/Program\ Files\ (x86)/Arm\ GNU\ Toolchain\ arm-none-eabi/14.2\ rel1/arm-none-eabi/include/_ansi.h \
@@ -3827,6 +3753,10 @@ src/CMakeFiles/freertos_raspberry_pico.dir/E_/freertos-awan/pico-sdk/src/rp2_com
   E:/freertos-awan/pico-sdk/src/common/pico_base_headers/include/pico/config.h \
   E:/freertos-awan/pico-sdk/src/common/pico_base_headers/include/pico/error.h \
   E:/freertos-awan/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
+  E:/freertos-awan/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h \
+  E:/freertos-awan/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h \
+  E:/freertos-awan/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h \
+  E:/freertos-awan/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h \
   E:/freertos-awan/pico-sdk/src/common/pico_stdlib_headers/include/pico/stdlib.h \
   E:/freertos-awan/pico-sdk/src/common/pico_time/include/pico/time.h \
   E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -3862,7 +3792,6 @@ src/CMakeFiles/freertos_raspberry_pico.dir/E_/freertos-awan/pico-sdk/src/rp2_com
   E:/freertos-awan/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
 
 src/CMakeFiles/freertos_raspberry_pico.dir/E_/freertos-awan/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: E:/freertos-awan/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c \
@@ -4471,6 +4400,7 @@ src/CMakeFiles/freertos_raspberry_pico.dir/main.c.obj: E:/freertos-awan/freertos
   E:/freertos-awan/freertos_raspberry_pico/lib/FreeRTOS-Kernel/include/mpu_wrappers.h \
   E:/freertos-awan/freertos_raspberry_pico/lib/FreeRTOS-Kernel/include/portable.h \
   E:/freertos-awan/freertos_raspberry_pico/lib/FreeRTOS-Kernel/include/projdefs.h \
+  E:/freertos-awan/freertos_raspberry_pico/lib/FreeRTOS-Kernel/include/queue.h \
   E:/freertos-awan/freertos_raspberry_pico/lib/FreeRTOS-Kernel/include/task.h \
   E:/freertos-awan/freertos_raspberry_pico/lib/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/include/portmacro.h \
   E:/freertos-awan/freertos_raspberry_pico/src/FreeRTOSConfig.h \
@@ -4516,7 +4446,6 @@ src/CMakeFiles/freertos_raspberry_pico.dir/main.c.obj: E:/freertos-awan/freertos
   E:/freertos-awan/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h \
-  E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h \
   E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
 
 
@@ -4743,8 +4672,6 @@ E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/intctrl
 E:/freertos-awan/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/timer.h:
 
 E:/freertos-awan/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h:
-
-E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h:
 
 E:/freertos-awan/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/clocks.h:
 
@@ -5085,8 +5012,6 @@ E:/freertos-awan/pico-sdk/src/rp2040/boot_stage2/include/boot_stage2/config.h:
 E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio/stdio.c:
 
 E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio/driver.h:
-
-E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c:
 
 E:/freertos-awan/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c:
 

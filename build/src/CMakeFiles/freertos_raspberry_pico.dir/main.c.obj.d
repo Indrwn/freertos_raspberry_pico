@@ -54,6 +54,8 @@ src/CMakeFiles/freertos_raspberry_pico.dir/main.c.obj: \
  C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/arm-none-eabi/include/machine/_types.h \
  C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/arm-none-eabi/include/sys/lock.h \
  C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/arm-none-eabi/include/sys/stdio.h \
+ E:\freertos-awan\freertos_raspberry_pico\lib\FreeRTOS-Kernel\include/queue.h \
+ E:\freertos-awan\freertos_raspberry_pico\lib\FreeRTOS-Kernel\include/task.h \
  E:\freertos-awan\pico-sdk\src\common\pico_stdlib_headers\include/pico/stdlib.h \
  E:\freertos-awan\pico-sdk\src\rp2_common\pico_stdio\include/pico/stdio.h \
  E:\freertos-awan\pico-sdk\src\common\pico_time\include/pico/time.h \
@@ -81,5 +83,4 @@ src/CMakeFiles/freertos_raspberry_pico.dir/main.c.obj: \
  E:\freertos-awan\pico-sdk\src\rp2_common\hardware_resets\include/hardware/resets.h \
  E:\freertos-awan\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/resets.h \
  E:\freertos-awan\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/resets.h \
- E:\freertos-awan\pico-sdk\src\rp2_common\pico_stdio_uart\include/pico/stdio_uart.h \
  E:\freertos-awan\pico-sdk\src\rp2_common\pico_stdio_usb\include/pico/stdio_usb.h

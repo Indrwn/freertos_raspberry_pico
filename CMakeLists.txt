@@ -19,8 +19,7 @@ pico_sdk_init()
 # Add subdirectories
 add_subdirectory(src)
 
-# Enable usb output, disable uart output
-pico_enable_stdio_usb(${ProjectName} 1)
+
 
 # if you have anything in "lib" folder then uncomment below - remember to add a CMakeLists.txt
 # file to the "lib" directory
